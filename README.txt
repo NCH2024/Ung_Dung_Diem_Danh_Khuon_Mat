@@ -18,7 +18,7 @@
     NẾU BẠN ĐANG THAM KHẢO VÀ CHẠY THỬ CÁC ĐOẠN CODE TRÊN
     >>> Vui lòng xem file requirements.txt trong thư mục đồ án để DOWNDLOAD đủ các thư viện cần thiết để chạy chương
     trình.
-    (Dự án sữ dụng Coda
+    (Dự án sữ dụng môi trường ảo conda)
 
 # HUONG DAN SU DUNG:
 - BUOC 1: Thuc hien dang nhap bang ma Can bo cua ban va mat
