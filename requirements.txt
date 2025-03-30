@@ -1,0 +1,13 @@
+opencv-python
+numpy
+Pillow
+face_recognition
+customtkinter
+mysql-connector-python
+CTkMessagebox
+CTkTable
+CTkListbox
+pandas
+xlsxwriter
+openpyxl
+pyinstaller
